@@ -77,7 +77,6 @@ try:
             #fragment kodu, opisany w linijce 102
             # if int(os.getenv('TIMELOOP')) == (n):
 
-
             # wyrównanie odstępu w pliku script.log
             # ---------[ 2023.09.20 12:09 ]---------
             #     Console 9  has been CONNECTED
@@ -97,8 +96,7 @@ try:
                 # Reset czasu (do wartości NULL) podłączenia jeśli konsola została odłączona
                 cur.execute(os.getenv('NULL') % str(i+1))
                 log_changes.append(f'    Console {i+1}{space} has been DISCONNECTED')
-
-                
+  
         i = i+1
     
     # Zapis stanu do bazy co drugie wykonanie skryptu {testowy kawałek kodu, posiada minusy}
