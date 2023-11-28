@@ -99,7 +99,7 @@ try:
   
         i = i+1
     
-    # Zapis stanu do bazy co drugie wykonanie skryptu {testowy kawałek kodu, posiada minusy}
+    # Zapis stanu do bazy co drugie wykonanie skryptu |testowy kawałek kodu|
 
     # dotenv.set_key(dotenv_file, 'TIMELOOP', str(int(os.environ['TIMELOOP'])+1))
     # if int(os.getenv('TIMELOOP')) > (n-1):
