@@ -5,4 +5,4 @@
 
 ![kvms](img/kvms.png)
 
-Dodatkowo posiada funkcjonalność zarezerwowania, zaimplementowaną przy użyciu [jQuery/AJAX](js/script.js)
+Dodatkowo posiada funkcjonalność zarezerwowania, zaimplementowaną przy użyciu [jQuery/AJAX](https://github.com/V0jcik/KvmTracker/blob/4209355009d93252fb76ac40130fd297039726ed/webDashboard/js/script.js#L25)
