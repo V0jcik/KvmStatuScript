@@ -5,4 +5,4 @@
 
 ![kvms](img/kvms.png)
 
-Dodatkowo posiada funkcjonalność zarezerwowania, zaimplementowaną przy użyciu [jQuery/AJAX](js/script.js#L25)
+Dodatkowo posiada funkcjonalność zarezerwowania, zaimplementowaną przy użyciu [jQuery/AJAX](js/script.js?plain=1)
